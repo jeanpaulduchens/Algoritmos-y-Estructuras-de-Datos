@@ -1,0 +1,3 @@
+Los ejercicios de este capítulo son de métodos matemáticos para el análisis de algoritmos.
+Se ve la notación O(). Y algunos ejercicios para ejercitar el Teorema Maestro.
+No requieren de código.
